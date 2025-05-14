@@ -1,0 +1,7 @@
+D1 Histogram Distance Measurements:
+Original vs Histogram Equalization: 0.7699
+Original vs Gamma=0.4: 1.0736
+Original vs Gamma=0.6: 0.6202
+Original vs Gamma=1.0: 0.0146
+Original vs Gamma=1.5: 0.5346
+Original vs Gamma=2.2: 0.9568
